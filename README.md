@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!
+![piggy](https://github.com/inkaonkala/inkaonkala/assets/70053619/b0f48cea-66d7-4760-a97c-7e107bc976b6)
 
 <!--
 **inkaonkala/inkaonkala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
