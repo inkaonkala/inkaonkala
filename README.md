@@ -1,4 +1,10 @@
 ## Hello!
+
+Good to see ya here!
+
+I am a trying to live my childhood dream and become a coder. Studying at Hive Helsinki. 
+
+
 ![piggy](https://github.com/inkaonkala/inkaonkala/assets/70053619/b0f48cea-66d7-4760-a97c-7e107bc976b6)
 
 <!--
