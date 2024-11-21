@@ -15,7 +15,7 @@ I'm a tireless creator with the passion of finding beaty in everyday life, makin
 - **Tools**: Git, Visual Studio Code
 
 ## 📊 GitHub Stats
-![Inka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inka&show_icons=true&theme=radical)
+![Inka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inkaonkala&show_icons=true&theme=radical)
 
 ## 🎉 Fun Fact
 When I'm not coding, I enjoy playing video games, writing, cooking and reading murder mysteries.
