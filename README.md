@@ -10,7 +10,7 @@ I'm a tireless creator with the passion of finding beaty in everyday life, makin
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: C, C++ (eager to learn more ofc)
+- **Languages**: C, C++
 - **Frameworks**: SFML, MLX42
 - **Tools**: Git, Visual Studio Code
 
