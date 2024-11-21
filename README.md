@@ -29,17 +29,8 @@ When I'm not coding, I enjoy playing video games, writing, cooking and reading m
 ---
 *"If it has something to do with creativity, YES, I will do it with you!"*
 
-
-<! --
-## Hello!
-
-Good to see ya here!
-
-I am a trying to live my childhood dream and become a coder. Studying at Hive Helsinki. 
-
-
 ![piggy](https://github.com/inkaonkala/inkaonkala/assets/70053619/b0f48cea-66d7-4760-a97c-7e107bc976b6)
-
+<! --
 **inkaonkala/inkaonkala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
