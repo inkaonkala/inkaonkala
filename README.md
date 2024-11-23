@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-I'm a tireless creator with the passion of finding beaty in everyday life, making life pretty, gaming and good food. Currently studying at Hive Helsinki. 
+I'm a tireless creator with the passion of finding beauty in everyday life, making life pretty, gaming and good food. Currently studying at Hive Helsinki. 
 My working backround is in teaching, as I worked as an special education teacher for 9years. 
 
 ---
