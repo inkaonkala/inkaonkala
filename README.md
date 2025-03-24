@@ -1,6 +1,6 @@
 # Hi there, I'm Inka! 👋
 
-🎮 * Working hard to fulfill my childhood dream of becoming a Game Developer *
+🎮 * Working hard to fulfill my childhood dream of becoming a Coder *
 
 ---
 
