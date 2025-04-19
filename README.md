@@ -13,7 +13,13 @@ My working backround is in teaching, as I worked as an special education teacher
 ## 🛠️ Technologies & Tools
 - **Languages**: C, C++
 - **Frameworks**: SFML, MLX42
-- **Tools**: Git, Visual Studio Code
+- **Tools**: Docker, Git, VS Code
+
+## 🔥 Currently Practicing
+- **Languages**: Typescript, c++
+- **Frameworks/libs**: React, Node.js
+- **Current group Projects**: Building a webserver (c++), building a Pong-game and web app(Typescript)!
+
 
 ## 📊 GitHub Stats
 ![Inka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inkaonkala&show_icons=true&theme=radical)
