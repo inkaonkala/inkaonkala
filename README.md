@@ -11,14 +11,14 @@ My working backround is in teaching, as I worked as an special education teacher
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: C, C++
+- **Languages**: C, C++, Typescript
 - **Frameworks**: SFML, MLX42
 - **Tools**: Docker, Git, VS Code
 
 ## 🔥 Currently Practicing
 - **Languages**: Typescript, c++
 - **Frameworks/libs**: React, Node.js
-- **Current group Projects**: Building a webserver (c++), building a Pong-game and web app(Typescript)!
+- **Current group Projects**: Building a webserver (c++), building a survival-farming game using Unity (c#)!
 
 
 ## 📊 GitHub Stats
