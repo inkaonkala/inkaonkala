@@ -18,7 +18,7 @@ My working backround is in teaching, as I worked as an special education teacher
 ## 🔥 Currently Practicing
 - **Languages**: Typescript, c++
 - **Frameworks/libs**: React, Node.js
-- **Current group Projects**: Building a webserver (c++), building a survival-farming game using Unity (c#)! Making an amazing portfolio (HTML, JavaScript) ...
+- **Current Projects**: Building a webserver (c++), building a survival-farming game using Unity (c#)! Making an amazing portfolio (HTML, JavaScript) ...
 
 
 ## 📊 GitHub Stats
