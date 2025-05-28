@@ -22,7 +22,7 @@ https://inkaonkala.github.io/portfolio/
 ## 🔥 Currently Practicing
 - **Languages**: Typescript, c++
 - **Frameworks/libs**: React, Node.js
-- **Current Projects**: Building a webserver (c++), building a survival-farming game using Unity (c#)! Making an amazing portfolio (HTML, JavaScript) ...
+- **Current Projects**: Making my first mobile game in godot! play the demo, link on my portfolio! Building a survival-farming game using Unity (c#)!
 
 
 ## 📊 GitHub Stats
