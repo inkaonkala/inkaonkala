@@ -15,7 +15,7 @@ https://inkaonkala.github.io/portfolio/
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: C, C++, Typescript
+- **Languages**: C, C++, Typescript, HTML
 - **Frameworks**: SFML, MLX42
 - **Tools**: Docker, Git, VS Code
 
