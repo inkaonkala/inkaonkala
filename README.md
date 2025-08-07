@@ -16,8 +16,8 @@ https://inkaonkala.github.io/portfolio/
 
 ## 🛠️ Technologies & Tools
 - **Languages**: C, C++, Typescript, HTML
-- **Frameworks**: SFML, MLX42, GODOT
-- **Tools**: Docker, Git, VS Code
+- **Frameworks**: SFML, MLX42, GODOT, Unity
+- **Tools**: Docker, Git, VS Code, Blender
 
 ## 🔥 Currently Practicing
 - **Languages**: Typescript, c++
