@@ -20,7 +20,7 @@ https://inkaonkala.github.io/portfolio/
 - **Tools**: Docker, Git, VS Code, Blender
 
 ## 🔥 Currently Practicing
-- **Languages**: Typescript, c++
+- **Languages**: Typescript, c++, c#
 - **Frameworks/libs**: React, Node.js
 - **Current Projects**: Making my first mobile game in godot! play the demo, link on my portfolio! Building a survival-farming game using Unity (c#)!
 
