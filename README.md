@@ -5,8 +5,8 @@
 ---
 
 ## 🌟 About Me
-I'm a tireless creator with the passion of finding beauty in everyday life, making life pretty, gaming and good food. Currently studying at Hive Helsinki. 
-My working backround is in teaching, as I worked as an special education teacher for 9years.
+I'm a tireless creator with the passion of finding beauty in everyday life, making life pretty, gaming and good food. Studied in Hive Helsinki. Currently studying full stack. 
+My working backround is in teaching. I've worked as an special education teacher for 9years and going.
 
 My portfolio:
 https://inkaonkala.github.io/portfolio/
