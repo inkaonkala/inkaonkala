@@ -22,7 +22,7 @@ https://inkaonkala.github.io/portfolio/
 ## 🔥 Currently Practicing
 - **Languages**: Typescript, c++, c#
 - **Frameworks/libs**: Unity, GODOT
-- **Current Projects**: Unity game, group project in Godot at Espoo GameLab
+- **Current Projects**: Unity game, fullStackOpen
 
 ## 📊 GitHub Stats
 ![Inka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inkaonkala&show_icons=true&theme=radical)
