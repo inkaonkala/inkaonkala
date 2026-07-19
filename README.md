@@ -24,8 +24,6 @@ https://inkaonkala.github.io/portfolio/
 - **Frameworks/libs**: Unity, GODOT
 - **Current Projects**: "Animal Revolution", a farming sim in GODOT
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inkaonkala)
 
 ## 🎉 Fun Fact
 When I'm not coding, I enjoy playing video games, writing, cooking and reading murder mysteries.
